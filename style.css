@@ -1,0 +1,42 @@
+.heading {
+    width: 100%;
+    margin: 0;
+    text-align: left;
+    border-radius: 0px;
+    padding-top: 20px;
+    line-height: 3;
+}
+.heading h2{
+    display: inline;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 35px;
+}   
+.heading button{
+    float: right;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#big_image{
+    width: 100%;
+}
+#footer{
+    margin: 0;
+    line-height: 2;
+    width: 100%;
+    background-color: rgb(211, 233, 234);
+    
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction-image{
+    display: inline-block;
+    width: 40%;
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+
